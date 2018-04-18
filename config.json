@@ -1,0 +1,9 @@
+{
+  "environment": "dev",
+  "dev": {
+    "port": 4444
+  },
+  "prod": {
+    "port": 8000
+  }
+}

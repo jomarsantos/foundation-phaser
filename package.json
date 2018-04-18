@@ -1,0 +1,23 @@
+{
+  "name": "foundation-phaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomarsantos/foundation-phaser.git"
+  },
+  "author": "Jomar Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomarsantos/foundation-phaser/issues"
+  },
+  "homepage": "https://github.com/jomarsantos/foundation-phaser#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "winston": "^3.0.0-rc4"
+  }
+}
